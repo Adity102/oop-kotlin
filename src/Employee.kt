@@ -10,6 +10,7 @@ class Employee(){
         println("Total Salary: $total")
     }
 }
+
 fun main(){
     val emp = Employee()
     emp.name = "Adity"
